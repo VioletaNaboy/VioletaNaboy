@@ -1,15 +1,10 @@
 ## Hi there 👋
 
-I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
-
 ### My specialty
-
-I have vast experience in fintech, real estate, and healthcare industries.  
-I enjoy building scalable systems that people love using. 
+ 
+I am a software engineer. I enjoy building scalable systems that people love using. 
 
 ### My tech stack and toolset
-
-At bn digital, we believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
 
 #### Languages
 
